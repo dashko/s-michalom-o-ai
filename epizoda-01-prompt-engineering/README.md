@@ -15,15 +15,15 @@ Video: doplniť po zverejnení
 
 ## Súbory v tomto priečinku
 
-- [`00-prehlad-modelov.md`](./00-prehlad-modelov.md) – prehľad modelov použitých alebo spomenutých v epizóde.
-- [`01-slaby-prompt.md`](./01-slaby-prompt.md) – jednoduchý, ale príliš nejasný prompt z videa.
-- [`02-zamotany-prompt.md`](./02-zamotany-prompt.md) – ukážka príliš dlhého a zamotaného promptu, kde je zmiešaných viac úloh naraz.
-- [`03-dobry-prompt.md`](./03-dobry-prompt.md) – lepšia, self-contained verzia promptu so zadanou rolou, cieľom, otázkami, štýlom a vstupom.
-- [`04-sablona-promptu.md`](./04-sablona-promptu.md) – univerzálna šablóna promptu, ktorú si môžete skopírovať a upraviť.
-- [`05-prakticke-tipy.md`](./05-prakticke-tipy.md) – rozpis praktických tipov z epizódy.
-- [`06-prompt-injection.md`](./06-prompt-injection.md) – krátka poznámka k prompt injection a oddeľovaniu pravidiel od dát.
-- [`07-temperature.md`](./07-temperature.md) – stručné vysvetlenie nastavenia `temperature`.
-- [`08-prakticke-tipy-tabulka.md`](./08-prakticke-tipy-tabulka.md) – praktické tipy v tabuľke so slovenskými aj anglickými copy/paste promptmi.
+- [`00-prehlad-modelov.md`](./00-prehlad-modelov.md): prehľad modelov použitých alebo spomenutých v epizóde.
+- [`01-slaby-prompt.md`](./01-slaby-prompt.md): jednoduchý, ale príliš nejasný prompt z videa.
+- [`02-zamotany-prompt.md`](./02-zamotany-prompt.md): ukážka príliš dlhého a zamotaného promptu, kde je zmiešaných viac úloh naraz.
+- [`03-dobry-prompt.md`](./03-dobry-prompt.md): lepšia, self-contained verzia promptu so zadanou rolou, cieľom, otázkami, štýlom a vstupom.
+- [`04-sablona-promptu.md`](./04-sablona-promptu.md): univerzálna šablóna promptu, ktorú si môžete skopírovať a upraviť.
+- [`05-prakticke-tipy.md`](./05-prakticke-tipy.md): rozpis praktických tipov z epizódy.
+- [`06-prompt-injection.md`](./06-prompt-injection.md): krátka poznámka k prompt injection a oddeľovaniu pravidiel od dát.
+- [`07-temperature.md`](./07-temperature.md): stručné vysvetlenie nastavenia `temperature`.
+- [`08-prakticke-tipy-tabulka.md`](./08-prakticke-tipy-tabulka.md): praktické tipy v tabuľke so slovenskými aj anglickými copy/paste promptmi.
 
 ## Odporúčaný spôsob skúšania
 

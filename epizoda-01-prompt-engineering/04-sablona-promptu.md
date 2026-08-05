@@ -31,12 +31,12 @@ User message:
 
 ## Čo jednotlivé časti znamenajú
 
-- **Rola** – z akej perspektívy má model odpovedať.
-- **Cieľ** – aký konkrétny výsledok chcete dostať.
-- **Kroky** – ako má model postupovať.
-- **Obmedzenia** – pre koho odpoveď je, aký má mať tón, dĺžku a čomu sa má vyhnúť.
-- **Formát** – ako má byť odpoveď štruktúrovaná.
-- **Vstupy** – texty alebo dáta, s ktorými má model pracovať.
+- **Rola**: z akej perspektívy má model odpovedať.
+- **Cieľ**: aký konkrétny výsledok chcete dostať.
+- **Kroky**: ako má model postupovať.
+- **Obmedzenia**: pre koho odpoveď je, aký má mať tón, dĺžku a čomu sa má vyhnúť.
+- **Formát**: ako má byť odpoveď štruktúrovaná.
+- **Vstupy**: texty alebo dáta, s ktorými má model pracovať.
 
 ## Praktická poznámka
 

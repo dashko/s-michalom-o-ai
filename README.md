@@ -22,12 +22,34 @@ Prvá praktická epizóda vysvetľuje základy prompt engineeringu: prečo dobr�
 - Video: doplniť po zverejnení
 - Materiály: [epizoda-01-prompt-engineering/](./epizoda-01-prompt-engineering/)
 
+### 2. Lokálne modely vs API
+
+Druhá epizóda porovnáva lokálne open-weight modely s modelmi cez API. Ukazuje, čo dnes lokálne modely reálne vedia, aký hardvér na ne treba, ako vyzerá reálny multi-GPU build so štyrmi RTX 3090 a kedy sa lokál oplatí viac než API.
+
+- Video: [Lokálne AI modely vs API](https://www.youtube.com/watch?v=iY2mKAOK2n8)
+- Materiály: [epizoda-02-lokalne-modely/](./epizoda-02-lokalne-modely/)
+
+### 3. Agentové programovanie
+
+Tretia epizóda vysvetľuje, čo je AI coding agent a ako sa líši od chatbotu. Pokrýva agentový cyklus, kritériá úspechu, hranice a autonómiu agenta a prácu s kontextom.
+
+- Video: [Agentové programovanie: čo je AI coding agent a ako nad ním rozmýšľať](https://www.youtube.com/watch?v=HmE1Ge3QlQM)
+- Materiály: [epizoda-03-agentove-programovanie/](./epizoda-03-agentove-programovanie/)
+
+### 4. Praktický setup coding agenta
+
+Štvrtá epizóda ukazuje konkrétny setup v Qwen Code: AGENTS.md, skills, MCP servery, napojenie lokálneho modelu cez Ollama a bezpečnostné guardrails.
+
+- Video: doplniť po zverejnení
+- Materiály: [epizoda-04-agentovy-setup/](./epizoda-04-agentovy-setup/)
+
 ## Ako používať tento repozitár
 
 1. Otvorte si priečinok konkrétnej epizódy.
-2. Prečítajte si jej `README.md`.
-3. Skopírujte si príklady promptov do svojho AI nástroja.
-4. Skúste prompt upraviť vždy iba jedným spôsobom naraz a porovnajte výsledky.
+2. Prečítajte si jej `README.md`. Nájdete tam hlavné myšlienky epizódy a zoznam všetkých súborov.
+3. Materiály majú rôznu podobu podľa témy epizódy: príklady promptov a šablóny, orientačné tabuľky alebo ukážky konfigurácií (AGENTS.md, settings.json, Modelfile).
+4. Príklady promptov si skopírujte do svojho AI nástroja, ukážky konfigurácií si upravte podľa vlastného projektu.
+5. Pri experimentovaní meňte vždy iba jednu vec naraz a porovnajte výsledky.
 
 ## Témy série
 
