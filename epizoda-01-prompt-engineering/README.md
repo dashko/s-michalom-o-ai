@@ -4,7 +4,7 @@ Táto epizóda je praktický úvod do prompt engineeringu.
 
 Hlavná myšlienka je jednoduchá: dobrý prompt nie je iba otázka. Je to krátka špecifikácia, ktorá modelu vysvetľuje rolu, cieľ, kontext, obmedzenia, očakávaný formát výstupu a vstupné dáta.
 
-Video: doplniť po zverejnení
+Video: [Ako písať lepšie prompty](https://www.youtube.com/watch?v=mhM740BVjI0)
 
 ## Čo si z epizódy odniesť
 

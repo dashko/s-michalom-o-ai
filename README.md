@@ -19,7 +19,7 @@ V repozitári nájdete príklady promptov, šablóny, poznámky a doplnkové mat
 
 Prvá praktická epizóda vysvetľuje základy prompt engineeringu: prečo dobrý prompt nie je iba otázka, ale skôr krátka špecifikácia. Ukazuje rozdiel medzi slabým, zamotaným a dobre štruktúrovaným promptom a obsahuje praktické tipy, ako z modelov dostať lepšie odpovede.
 
-- Video: doplniť po zverejnení
+- Video: [Ako písať lepšie prompty](https://www.youtube.com/watch?v=mhM740BVjI0)
 - Materiály: [epizoda-01-prompt-engineering/](./epizoda-01-prompt-engineering/)
 
 ### 2. Lokálne modely vs API
