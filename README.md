@@ -40,8 +40,15 @@ Tretia epizóda vysvetľuje, čo je AI coding agent a ako sa líši od chatbotu.
 
 Štvrtá epizóda ukazuje konkrétny setup v Qwen Code: AGENTS.md, skills, MCP servery, napojenie lokálneho modelu cez Ollama a bezpečnostné guardrails.
 
-- Video: doplniť po zverejnení
+- Video: [Praktický setup coding agenta](https://www.youtube.com/watch?v=HllulrejHyI)
 - Materiály: [epizoda-04-agentovy-setup/](./epizoda-04-agentovy-setup/)
+
+### 5. Praktické demo: agentový workflow od promptu po commit
+
+Piata epizóda ukazuje agentové programovanie v praxi na demo projekte. Qwen Code postupne postaví nástroj na generovanie commit messages cez MCP, Ollamu, SQLite, FastAPI, React UI a testy. Pointa je riadiť agenta malými, overiteľnými krokmi: prompt, diff, test, review a commit.
+
+- Video: doplniť po zverejnení
+- Materiály: [epizoda-05-agentove-demo/](./epizoda-05-agentove-demo/)
 
 ## Ako používať tento repozitár
 

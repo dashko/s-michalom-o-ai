@@ -2,7 +2,7 @@
 
 Táto epizóda ukazuje praktický setup pre coding agenta v Qwen Code: AGENTS.md, skills, MCP servery, napojenie lokálneho modelu cez Ollama a bezpečnostné guardrails.
 
-Video: doplniť po zverejnení
+Video: [Praktický setup coding agenta](https://www.youtube.com/watch?v=HllulrejHyI)
 
 ## Hlavná myšlienka
 
