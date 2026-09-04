@@ -77,7 +77,5 @@ Pri AI agentoch neriešime iba to, čo model odpovie, ale aj to, čo môže vyko
 
 ## Autor
 
-**Michal Bystricky** · [LinkedIn](https://www.linkedin.com/in/dev-michal/)
-
-Som product owner v spoločnosti [msg](https://msg-life.sk/), kde sa venujem enterprise AI produktom. Zároveň som zakladateľom [Sharpscale](https://sharpscale.io/sk), mojej konzultačnej a softvérovej spoločnosti, kde prototypujem AI produkty, experimentujem s novými spôsobmi budovania softvéru a skúmam, ako môžu AI agenti spolupracovať s ľudskými vývojármi.
+**Michal Bystricky** ([LinkedIn](https://www.linkedin.com/in/dev-michal/)) je dátový vedec v spoločnosti [msg](https://msg-life.sk/), kde sa venuje enterprise AI produktom. Zároveň je zakladateľom [Sharpscale](https://sharpscale.io/sk), jeho konzultačnej a softvérovej spoločnosti, kde prototypuje AI produkty, experimentuje s novými spôsobmi budovania softvéru a skúma, ako môžu AI agenti spolupracovať s ľudskými vývojármi.
 
