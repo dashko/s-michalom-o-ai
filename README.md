@@ -47,7 +47,7 @@ Tretia epizóda vysvetľuje, čo je AI coding agent a ako sa líši od chatbotu.
 
 Piata epizóda ukazuje agentové programovanie v praxi na demo projekte. Qwen Code postupne postaví nástroj na generovanie commit messages cez MCP, Ollamu, SQLite, FastAPI, React UI a testy. Pointa je riadiť agenta malými, overiteľnými krokmi: prompt, diff, test, review a commit.
 
-- Video: doplniť po zverejnení
+- Video: [Praktické demo: agentový workflow od promptu po commit](https://www.youtube.com/watch?v=KeRwi4_Tza4)
 - Materiály: [epizoda-05-agentove-demo/](./epizoda-05-agentove-demo/)
 
 ## Ako používať tento repozitár
@@ -74,3 +74,10 @@ Séria postupne pokryje napríklad:
 ## Poznámka k bezpečnosti
 
 Pri AI agentoch neriešime iba to, čo model odpovie, ale aj to, čo môže vykonať. Preto sa v sérii opakovane vraciame k témam ako obmedzené oprávnenia, kontrolované nástroje, validácia vstupov, auditovateľnosť a súkromie dát.
+
+## Autor
+
+**Michal Bystricky** · [LinkedIn](https://www.linkedin.com/in/dev-michal/)
+
+Som product owner v spoločnosti [msg](https://msg-life.sk/), kde sa venujem enterprise AI produktom. Zároveň som zakladateľom [Sharpscale](https://sharpscale.io/sk), mojej konzultačnej a softvérovej spoločnosti, kde prototypujem AI produkty, experimentujem s novými spôsobmi budovania softvéru a skúmam, ako môžu AI agenti spolupracovať s ľudskými vývojármi.
+

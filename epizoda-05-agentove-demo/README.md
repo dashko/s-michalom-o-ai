@@ -2,7 +2,7 @@
 
 V tejto epizóde si ukážeme agentové programovanie v praxi na demo projekte. Nepúšťame agenta na jedno veľké zadanie, ale dávame mu menšie a overiteľné kroky: Docker prostredie, MCP server na generovanie commit messages, SQLite logovanie, API s React UI a Playwright test.
 
-Video: doplniť po zverejnení
+Video: [Praktické demo: agentový workflow od promptu po commit](https://www.youtube.com/watch?v=KeRwi4_Tza4)
 
 ## Hlavná myšlienka
 
