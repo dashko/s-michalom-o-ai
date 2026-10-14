@@ -54,7 +54,7 @@ Piata epizóda ukazuje agentové programovanie v praxi na demo projekte. Qwen Co
 
 Šiesta epizóda ukazuje, ako z agentového workflowu odstraňuje človeka z opakovaného promptovania. Namiesto jedného agenta, ktorý si hodnotí vlastnú prácu, používame troch subagentov: implementátora, reviewera a orchestrátora, a loop (goal), ktorý ich nechá bežať v cykloch, kým výsledok nespĺní stanovené kritériá.
 
-- Video: pridáme neskôr
+- Video: [Subagenti a loop engineering](https://www.youtube.com/watch?v=lbvL2256Xxs)
 - Materiály: [epizoda-06-subagenti-a-loop/](./epizoda-06-subagenti-a-loop/)
 
 ## Ako používať tento repozitár

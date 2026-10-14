@@ -4,6 +4,8 @@ V minulých dieloch sme agentovi nedávali jedno veľké zadanie, ale menšie a 
 
 V tejto epizóde chcem tento proces automatizovať: subagenti si rozdelia prácu a loop ich nechá bežať v cykloch, kým výsledok nespĺňa stanovené kritériá.
 
+Video: [Subagenti a loop engineering](https://www.youtube.com/watch?v=lbvL2256Xxs)
+
 ## Hlavná myšlienka
 
 Jeden agent, ktorý si samoreviewuje vlastnú prácu, má tendenciu ju potvrdiť. Má rovnaké predpoklady a rovnaký smer myslenia, aký mal pri písaní.
