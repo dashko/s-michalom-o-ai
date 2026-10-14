@@ -50,6 +50,13 @@ Piata epizóda ukazuje agentové programovanie v praxi na demo projekte. Qwen Co
 - Video: [Praktické demo: agentový workflow od promptu po commit](https://www.youtube.com/watch?v=KeRwi4_Tza4)
 - Materiály: [epizoda-05-agentove-demo/](./epizoda-05-agentove-demo/)
 
+### 6. Subagenti a loop engineering
+
+Šiesta epizóda ukazuje, ako z agentového workflowu odstraňuje človeka z opakovaného promptovania. Namiesto jedného agenta, ktorý si hodnotí vlastnú prácu, používame troch subagentov: implementátora, reviewera a orchestrátora, a loop (goal), ktorý ich nechá bežať v cykloch, kým výsledok nespĺní stanovené kritériá.
+
+- Video: pridáme neskôr
+- Materiály: [epizoda-06-subagenti-a-loop/](./epizoda-06-subagenti-a-loop/)
+
 ## Ako používať tento repozitár
 
 1. Otvorte si priečinok konkrétnej epizódy.
@@ -77,5 +84,4 @@ Pri AI agentoch neriešime iba to, čo model odpovie, ale aj to, čo môže vyko
 
 ## Autor
 
-**Michal Bystricky** ([LinkedIn](https://www.linkedin.com/in/dev-michal/)) je dátový vedec v spoločnosti [msg](https://msg-life.sk/), kde sa venuje enterprise AI produktom. Zároveň je zakladateľom [Sharpscale](https://sharpscale.io/sk), jeho konzultačnej a softvérovej spoločnosti, kde prototypuje AI produkty, experimentuje s novými spôsobmi budovania softvéru a skúma, ako môžu AI agenti spolupracovať s ľudskými vývojármi.
-
+**Michal Bystrický** ([LinkedIn](https://www.linkedin.com/in/dev-michal/)) je dátový vedec v spoločnosti [msg](https://msg-life.sk/), kde sa ako product owner podieľa na vývoji aplikácie [msg.ask:it](https://msg-insurance-suite.com/our-solutions/msg-askit/). Popri tom sa prostredníctvom vlastnej [konzultačnej a softvérovej spoločnosti](https://sharpscale.io/sk) venuje prototypovaniu AI produktov, experimentuje s novými spôsobmi budovania softvéru a skúma, ako môžu AI agenti spolupracovať s ľudskými vývojármi.
